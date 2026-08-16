@@ -1,6 +1,6 @@
-﻿<div align="center">
+<div align="center">
 
-# ðŸŒ¬ï¸ Wind Turbine Life Cycle Assessment (LCA)
+# Wind Turbine Life Cycle Assessment (LCA)
 ### Environmental Impact & Carbon Flow Visualizer
 
 [![Author](https://img.shields.io/badge/Author-@shahrukh--hack-181717?style=flat-square&logo=github)](https://github.com/shahrukh-hack)
@@ -17,16 +17,16 @@ An advanced **Life Cycle Assessment (LCA) Analysis Engine** for renewable wind e
 
 ---
 
-## âš¡ Key Features
+## Key Features
 
-* ðŸ”„ **D3 Sankey Energy & Carbon Flows:** Interactive Sankey diagrams illustrating material extraction, manufacturing, operation, and end-of-life recycling.
-* ðŸŒ¿ **Carbon Footprint Modeling:** Quantifies greenhouse gas emissions (COâ‚‚e) per megawatt-hour generated.
-* âš™ï¸ **Turbine Parameter Customizer:** Configure turbine capacity, blade materials, tower height, and geographic lifecycle factors.
-* ðŸ“Š **Comparative Benchmark Charts:** Side-by-side environmental analysis across multiple wind turbine models.
+* **D3 Sankey Energy & Carbon Flows:** Interactive Sankey diagrams illustrating material extraction, manufacturing, operation, and end-of-life recycling.
+* **Carbon Footprint Modeling:** Quantifies greenhouse gas emissions (CO2e) per megawatt-hour generated.
+* **Turbine Parameter Customizer:** Configure turbine capacity, blade materials, tower height, and geographic lifecycle factors.
+* **Comparative Benchmark Charts:** Side-by-side environmental analysis across multiple wind turbine models.
 
 ---
 
-## ðŸ› ï¸ Tech Stack
+## Tech Stack
 
 * **Frontend:** React 18, TypeScript, Tailwind CSS
 * **Data Visualization:** D3 Sankey, Airbnb VisX (`@visx/shape`, `@visx/scale`, `@visx/hierarchy`)
@@ -35,7 +35,7 @@ An advanced **Life Cycle Assessment (LCA) Analysis Engine** for renewable wind e
 
 ---
 
-## ðŸš€ Quickstart
+## Quickstart
 
 ```bash
 git clone https://github.com/shahrukh-hack/LCA-bolt.git
@@ -46,6 +46,6 @@ npm run dev
 
 ---
 
-## ðŸ‘¨â€ðŸ’» Author
+## Author
 
-Created by **[Yogeshkumar Patel](https://github.com/shahrukh-hack)** â€¢ Adelaide, Australia ðŸ‡¦ðŸ‡º
+Created by **[Yogeshkumar Patel](https://github.com/shahrukh-hack)** • Adelaide, Australia 🇦🇺
